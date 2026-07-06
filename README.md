@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there, I'm Vaibhav Chauhan 👋<br><br>DevOps / CI-CD Engineer | Site Reliability Engineer (SRE)<br><br>📌 About Me<br><br>I am a DevOps & Site Reliability Engineer (SRE) with a passion for architecting resilient, secure, and production-grade cloud infrastructure. With hands-on experience spanning enterprise environments at Orange Business Services and deep implementation of DevSecOps frameworks, I focus on bridging the gap between rapid deployment and rock-solid platform stability. <br><br>My engineering philosophy center's on "Shift Left" security, infrastructure-as-code scalability, and designing self-healing environments. Whether it’s building zero-trust access models using AWS IRSA, orchestrating multi-cluster GitOps workflows via ArgoCD, or writing custom operators to automate real-time incident remediation, I strive to eliminate operational friction and human error through smart automation.<br><br>🎯 What I'm Up To:<br>🛠️ Building & Hardening: Designing path-based microservices pipelines and immutable infrastructure layers using Terraform and AWS EKS.<br>🔒 Securing Pipelines: Pushing security gates (Trivy, SonarCloud, Gitleaks) straight into the active CI loop to block vulnerabilities before runtime.<br>📈 Continuous Growth: Deepening enterprise multi-tier architecture optimization while tracking toward my AWS Certified Solutions Architect – Associate milestone.
+## Hi there, I'm Vaibhav Chauhan 👋<br>
+<br>DevOps / CI-CD Engineer | Site Reliability Engineer (SRE)<br><br>I am a DevOps & Site Reliability Engineer (SRE) with a passion for architecting resilient, secure, and production-grade cloud infrastructure. With hands-on experience spanning enterprise environments at Orange Business Services and deep implementation of DevSecOps frameworks, I focus on bridging the gap between rapid deployment and rock-solid platform stability. <br><br>My engineering philosophy center's on "Shift Left" security, infrastructure-as-code scalability, and designing self-healing environments. Whether it’s building zero-trust access models using AWS IRSA, orchestrating multi-cluster GitOps workflows via ArgoCD, or writing custom operators to automate real-time incident remediation, I strive to eliminate operational friction and human error through smart automation.<br><br>
+## 🎯 What I'm Up To:<br>
+🛠️ Building & Hardening: Designing path-based microservices pipelines and immutable infrastructure layers using Terraform and AWS EKS.<br>🔒 Securing Pipelines: Pushing security gates (Trivy, SonarCloud, Gitleaks) straight into the active CI loop to block vulnerabilities before runtime.<br>📈 Continuous Growth: Deepening enterprise multi-tier architecture optimization while tracking toward my AWS Certified Solutions Architect – Associate milestone.
 
 
 ## 🌐 Socials:
@@ -19,6 +22,4 @@ Hi there, I'm Vaibhav Chauhan 👋<br><br>DevOps / CI-CD Engineer | Site Reliabi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vaibhav040&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
